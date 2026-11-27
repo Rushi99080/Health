@@ -1,3 +1,16 @@
+# Health
+
+Two separate fitness apps live in this repository. Each one keeps its own data in your phone's browser.
+
+| App | Open it |
+| --- | --- |
+| **Cut to 80** — 30-day home fat-loss challenge | https://rushi99080.github.io/Health/cut-to-80/ |
+| **Limbu Health Buddy** | https://rushi99080.github.io/Health/ |
+
+Details for Cut to 80 are in [`cut-to-80/README.md`](cut-to-80/README.md). Everything below is about Limbu.
+
+---
+
 # Limbu Health Buddy
 
 A personal fat-loss app that runs in your phone's browser. Limbu, a small lemon, hops onto whatever you tap and guides you through the day.
